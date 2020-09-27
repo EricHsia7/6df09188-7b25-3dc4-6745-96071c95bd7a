@@ -1,4 +1,5 @@
 禁止兩指縮放
+<br>
 <textarea class="code" readonly="readonly">
   window.onload = function() {
     // 阻止雙擊放大
